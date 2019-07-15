@@ -5,4 +5,4 @@ def get_input (help_text = ("please input a number:")):
 
 number = get_input ("please inset a number: ")
 
-if number
+if number:
